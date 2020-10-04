@@ -1,0 +1,6 @@
+//pizzaAlgo
+Order pizza
+decide what type of pizza you want
+greet pizza deliverer
+pay pizza deliverer
+eat pizza
