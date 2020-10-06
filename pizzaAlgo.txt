@@ -4,3 +4,6 @@ decide what type of pizza you want
 greet pizza deliverer
 pay pizza deliverer
 eat pizza
+x+y=z
+return x,y
+x-y=1
